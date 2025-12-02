@@ -23,6 +23,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
 
 
