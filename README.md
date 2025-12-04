@@ -24,6 +24,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,18 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
 
 
