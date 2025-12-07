@@ -6,10 +6,12 @@ class Solution {
         for (int i = 0; i < n; i++) {
             arr[nums[i]] = nums[i];
         }
+        int miss= 0;
         for (int i = 0; i < n + 1; i++) {
-            if (arr[i] == -1)
-                return i;
+            if (arr[i] != miss)
+                return miss;
+            miss++;
         }
-        return 0;
+        return n+1;
     }
 }
