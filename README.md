@@ -25,6 +25,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -54,8 +55,25 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
 
 
