@@ -53,6 +53,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
