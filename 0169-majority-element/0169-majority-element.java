@@ -9,4 +9,9 @@ class Solution {
         }
         return -1;
     }
+    public int majorityElement1(int[] nums) {
+        int n = nums.length;
+        Arrays.sort(nums);
+        return nums[n/2];
+    }
 }
