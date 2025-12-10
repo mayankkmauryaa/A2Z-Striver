@@ -41,6 +41,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
@@ -79,6 +81,10 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
 
 
