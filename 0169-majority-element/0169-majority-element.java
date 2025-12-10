@@ -1,5 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        int count = 0;
+        int candidate = 0;
+        for (int num : nums) {
+            if (count == 0) candidate = num;
+            if (num == candidate) count++;
+            else count--;
+        }
+        return candidate;
+    }
+
+    public int majorityElement1(int[] nums) {
         int n = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < n; i++) {
@@ -9,7 +20,7 @@ class Solution {
         }
         return -1;
     }
-    public int majorityElement1(int[] nums) {
+    public int majorityElement2(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
         return nums[n/2];
