@@ -31,6 +31,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
@@ -82,6 +84,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 ## Divide and Conquer
