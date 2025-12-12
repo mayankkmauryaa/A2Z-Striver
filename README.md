@@ -43,6 +43,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
