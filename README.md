@@ -60,6 +60,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,10 +108,12 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
