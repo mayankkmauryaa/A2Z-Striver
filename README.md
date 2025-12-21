@@ -24,6 +24,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
@@ -59,6 +60,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
@@ -113,6 +115,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
