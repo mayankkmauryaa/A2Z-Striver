@@ -6,7 +6,7 @@ class Solution {
         int bottom = matrix.length - 1;
         int lcol = 0;
 
-        while (top <= bottom && rcol >= lcol) {
+        while (top <= bottom && lcol <= rcol) {
             for (int i = lcol; i <= rcol; i++) {
                 ans.add(matrix[top][i]);
                 // add row on the top
