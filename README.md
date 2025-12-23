@@ -73,6 +73,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -83,6 +84,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,10 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
 
 
