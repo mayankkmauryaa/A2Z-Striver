@@ -62,6 +62,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | ------- |
 | [0001-two-sum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0054-spiral-matrix) |
@@ -95,6 +96,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0704-binary-search) |
 ## Bit Manipulation
