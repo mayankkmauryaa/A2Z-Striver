@@ -24,6 +24,6 @@ class Solution {
             ans += Math.ceil((double) i / val);
         }
         return ans;
-        
+
     }
 }
