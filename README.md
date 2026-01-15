@@ -45,6 +45,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0014-longest-common-prefix](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0560-subarray-sum-equals-k) |
