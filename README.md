@@ -35,6 +35,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0075-sort-colors](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -42,6 +43,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
