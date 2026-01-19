@@ -62,6 +62,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -208,6 +209,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
