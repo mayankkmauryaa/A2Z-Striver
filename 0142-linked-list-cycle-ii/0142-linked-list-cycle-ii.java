@@ -28,3 +28,18 @@ public class Solution {
         return null;
     }
 }
+class Solution_Map {
+    public ListNode detectCycle(ListNode head) {
+        Map<ListNode, Integer> map = new HashMap<>();
+        map.put(head, 1);
+        while (head != null) {
+            if (map.containsKey(head.next)) {
+                return head.next;
+            } else {
+                map.put(head.next, 1);
+            }
+            head = head.next;
+        }
+        return null;
+    }
+}
