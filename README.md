@@ -37,6 +37,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0229-majority-element-ii) |
@@ -212,6 +214,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0876-middle-of-the-linked-list) |
