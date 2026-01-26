@@ -1,17 +1,31 @@
 class Solution {
-    public int missingNumber(int[] nums) { // XOR
-        int n = nums.length;
-        int ans = 0;
-        for (int i = 1; i <= n; i++) {
-            ans = ans ^ i;
+    public int missingNumber(int[] nums) { // xor
+        int xor = 0;
+        int x = 1;
+        for (int num : nums) {
+            xor ^= num;
+            xor ^= x;
+            x++;
         }
-        for (int i = 0; i < nums.length; i++) {
-            ans = ans ^ nums[i];
-        }
-        return ans;
+        return xor;
     }
+}
 
-    public int missingNumber1(int[] nums) { // sort -> edge case -> traverse
+class Solution_maths {
+    public int missingNumber(int[] nums) {
+        int n = nums.length + 1;
+        int total = (n * (n - 1)) / 2;
+        int sum = 0;
+        for (int num : nums) {
+            sum += num;
+        }
+
+        return total - sum;
+    }
+}
+
+class Solution_sort {
+    public int missingNumber(int[] nums) { // sort -> edge case -> traverse
         Arrays.sort(nums);
         int n = nums.length;
         if (nums[0] != 0)
@@ -24,16 +38,20 @@ class Solution {
         }
         return 0;
     }
+}
 
-    public int missingNumber2(int[] nums) { // running sum
+class Solution_sum {
+    public int missingNumber(int[] nums) { // running sum
         int sum = nums.length;
         for (int i = 0; i < nums.length; i++) {
             sum += i - nums[i];
         }
         return sum;
     }
+}
 
-    public int missingNumber3(int[] nums) { // resposition in another array a/c to idx
+class Solution_reposition {
+    public int missingNumber(int[] nums) { // resposition in another array a/c to idx
         int n = nums.length;
         int arr[] = new int[n + 1];
         Arrays.fill(arr, -1);
