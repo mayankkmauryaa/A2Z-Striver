@@ -31,6 +31,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0206-reverse-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
