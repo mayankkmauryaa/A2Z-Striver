@@ -27,6 +27,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0009-palindrome-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
@@ -73,6 +74,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0509-fibonacci-number) |
