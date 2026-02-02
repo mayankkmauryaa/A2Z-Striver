@@ -131,6 +131,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [1539-kth-missing-positive-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ If you're also going through Striver’s A2Z course, feel free to use this repo 
 | [0229-majority-element-ii](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/0268-missing-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mayankkmauryaa/A2Z-Striver/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
